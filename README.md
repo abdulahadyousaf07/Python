@@ -11,5 +11,6 @@ This repository contains my Python learning journey.
 - File Handling
 - Exception Handling
 - Mini Projects
+- Advanced Python
 
 I'll continue updating this repository as I learn new concepts and build more projects.
